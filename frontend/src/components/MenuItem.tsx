@@ -12,7 +12,7 @@ interface MenuItemProps {
 export default function MenuItem(props: MenuItemProps) {
   return (
     <Link href={props.address} className='hover:text-amber-500'>
-      <p className='uppercase text-sm'>{props.title}</p>
+      <p className='uppercase text-md'>{props.title}</p>
     </Link>
   )
 }

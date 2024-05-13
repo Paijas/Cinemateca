@@ -6,9 +6,9 @@ export default function Header() {
   return (
     <div className='flex justify-between items-center p-3 mx-auto'>
 
-        <div className='flex gap-4'>
+        <div className='flex gap-4 '>
             <MenuItem title='Home' address='/'  />
-            <MenuItem title='About' address='/about'  />
+            <MenuItem title='Sobre' address='/about'  />
         </div>
 
         <Link href={'/'} className='flex'>
