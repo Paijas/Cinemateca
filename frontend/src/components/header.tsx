@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 export default function Header() {
   return (
-    <div className='flex justify-between items-center p-3 mx-auto'>
+    <div className='flex justify-between items-center px-4 py-8 mx-auto'>
 
         <div className='flex gap-4 '>
             <MenuItem title='Home' address='/'  />
