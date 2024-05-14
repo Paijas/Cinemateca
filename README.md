@@ -4,6 +4,8 @@ Cinemateca é um clone da IMDB, desenvolvido com React JS, JavaScript, Tailwind 
 
 ## Tecnologias Utilizadas:
 
+### Frontend:
+
 *React JS: Biblioteca JavaScript para criar interfaces de usuário dinâmicas e interativas.*
 
 *JavaScript: Linguagem de programação base para a web.*
@@ -11,3 +13,9 @@ Cinemateca é um clone da IMDB, desenvolvido com React JS, JavaScript, Tailwind 
 *Tailwind CSS: Framework CSS que oferece classes pré-construídas para estilizar componentes rapidamente.*
 
 *Next.js: Framework React para renderização do lado do servidor e outras funcionalidades avançadas.*
+
+### Backend:
+
+*Node.js: Ambiente de execução JavaScript que permite construir aplicações backend robustas e escaláveis.*
+
+
